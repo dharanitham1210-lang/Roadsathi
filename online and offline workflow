@@ -1,0 +1,32 @@
+## Online Route
+SOS
+ ↓
+GPS Location
+ ↓
+AI Fault Triage
+ ↓
+Mechanic Matching
+ ↓
+Parts-Aware Routing
+ ↓
+Navigation
+ ↓
+ETA Updates
+ ↓
+Rescue
+
+
+## Offline / Fallback Route
+SOS
+ ↓
+SMS Fallback
+ ↓
+Location Sent via SMS
+ ↓
+Rescue Request Created
+ ↓
+Confirmation / ETA
+ ↓
+Offline Shelter Guidance
+ ↓
+Store & Sync Later

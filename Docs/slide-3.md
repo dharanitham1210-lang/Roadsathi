@@ -51,3 +51,21 @@
 - Android Platform
 - Firebase Deployment
 - Firebase Monitoring & Analytics
+
+### System Architecture
+SOS Request & User Input
+        ↓
+User Interface
+        ↓
+Core Platform
+(AI Fault Triage + Mechanic Matching + Parts-Aware Routing)
+        ↓
+Services & Navigation
+(Maps + GPS + Route Optimisation + ETA)
+        ↓
+Communication & Safety
+(Guardian Link + Verification + Price Locking + Alerts)
+        ↓
+Backend & Data Layer
+        ↓
+Offline / Fallback Route
